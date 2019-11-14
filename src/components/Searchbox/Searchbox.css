@@ -1,0 +1,10 @@
+
+.searchbox {
+    padding: 0.5rem;
+}
+
+.searchbox--input {
+    padding: 0.75rem;
+    border: 1px solid green;
+    background-color: lightblue;
+}
